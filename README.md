@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/cjchiarello/enablement">
-    <img src="https://bravocg.com/wp-content/uploads/2022/06/logo-microsoft-cloud-azure-png-480x270.webp" alt="Logo" width="160" height="160">
+    <img src="https://static.thenounproject.com/png/4598614-200.png" alt="Logo" width="160" height="160">
   </a>
 
 <h3 align="center">enablment</h3>
