@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/cjchiarello/enablement">
-    <img src="https://icon2.cleanpng.com/20180802/zsv/kisspng-macintosh-operating-systems-apple-happy-mac-comput-5b63610c3c0911.4761400515332395642459.jpg" alt="Logo" width="160" height="160">
+    <img src="https://cdn.osxdaily.com/wp-content/uploads/2012/06/xserve.jpg" alt="Logo" width="160" height="160">
   </a>
 
 <h3 align="center">enablment</h3>
