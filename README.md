@@ -8,6 +8,7 @@ MS Learn https://learn.microsoft.com/en-us/training/
   https://cloudpartners.transform.microsoft.com/
   https://www.microsoft.com/azure/partners/resources
 partner resource catalogue https://www.microsoft.com/azure/partners/resources
+m365 maps https://m365maps.com/matrix.htm
 
 
 
