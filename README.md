@@ -30,15 +30,19 @@
 ## Non-Microsoft Links
 m365 maps https://m365maps.com/matrix.htm
 
-
 <!--- Arrow Links -->
 
 ## Arrow Links
-ArrowSphere Knowledge Center https://knowledgecenter.arrowsphere.com/dc/
-Arrow Cloud Video Hub https://www.arrow.com/globalecs/na/products/microsoft/microsoft-video-hub/
+* ArrowSphere Knowledge Center https://knowledgecenter.arrowsphere.com/dc/
+* Arrow Cloud Video Hub https://www.arrow.com/globalecs/na/products/microsoft/microsoft-video-hub/
 
-<!-- CONTACT -->
-## Contact
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/cjchiarello/enablement.svg?style=for-the-badge
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [Josh Hickok]()
+* [Oliver Radcliffe]()
+* [Bryan Hamilton]()
+
+Project Link: [https://github.com/cjchiarello/enablement](https://github.com/cjchiarello/enablement)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
