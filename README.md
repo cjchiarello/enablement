@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/cjchiarello/enablement">
-    <img src="https://cdn.osxdaily.com/wp-content/uploads/2012/06/xserve.jpg" alt="Logo" width="160" height="160">
+    <img src="https://p1.hiclipart.com/preview/886/433/224/381-snow-leopard-icons-xserve-png-icon-thumbnail.jpg" alt="Logo" width="160" height="160">
   </a>
 
 <h3 align="center">enablment</h3>
